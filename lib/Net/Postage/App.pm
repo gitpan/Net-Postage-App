@@ -6,7 +6,7 @@ use warnings;
 use JSON;
 use HTTP::Request::Common qw(POST);
 use LWP::UserAgent;
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub new {
     
