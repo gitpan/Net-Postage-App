@@ -1,6 +1,9 @@
-Revision history for Perl extension Net::Postage::App.
+Revision history for perl module Net::Postage::App
 
-0.02  Sat Jul 24 10:03:12 2010
-	- original version; created by h2xs 1.23 with options
-		-AX -n Net::Postage::App
+0.03 2013-10-04
 
+ - add attachments support
+
+0.02 2010-07-24
+
+ - Initial release
